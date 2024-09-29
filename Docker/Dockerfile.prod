@@ -1,0 +1,20 @@
+FROM node:20.3.0-alpine as build
+WORKDIR /app
+COPY package.json .
+RUN npm i
+COPY package-lock.json .
+COPY . .
+RUN npm run build
+
+ENV NODE_ENV production
+FROM nginx:1.21.6-alpine as server
+COPY nginx/nginx.conf /etc/nginx/conf.d/default.conf
+COPY --from=build /app/out/ /usr/share/nginx/html
+
+
+# Commands:
+# To build the image
+# docker build -t rajat-rajdeep-web . -f Docker/Dockerfile.prod --platform=linux/amd64
+
+# To run the container
+# docker run -d -p 8080:80 rajat-rajdeep-web
