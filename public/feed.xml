@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Karuna Solanki</title>
+      <link>https://karunasolanki.in/blog</link>
+      <description>Explore the bio, blog, and projects of Karuna Solanki.</description>
+      <language>en-us</language>
+      <managingEditor>karuna.solanki@outlook.com (Karuna Solanki)</managingEditor>
+      <webMaster>karuna.solanki@outlook.com (Karuna Solanki)</webMaster>
+      <lastBuildDate>Sun, 08 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://karunasolanki.in/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://karunasolanki.in/blog/welcome-blog</guid>
+    <title>Hello World! Welcome to My Blog!</title>
+    <link>https://karunasolanki.in/blog/welcome-blog</link>
+    <description>Welcome! Join me as i explore and share my thoughts, experiences and insights. Stay tuned for an exciting journey through my future articles!&quot;</description>
+    <pubDate>Sun, 08 Oct 2023 00:00:00 GMT</pubDate>
+    <author>karuna.solanki@outlook.com (Karuna Solanki)</author>
+    
+  </item>
+
+    </channel>
+  </rss>

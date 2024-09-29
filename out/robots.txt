@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://karunasolanki.in
+Sitemap: https://karunasolanki.in/sitemap.xml
