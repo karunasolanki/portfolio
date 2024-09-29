@@ -1,34 +1,20 @@
 const experienceData = [
   {
-    title: 'Software Engineer',
-    company: 'Hyderabad',
-    window: 'Oct 2023 - Present',
-    location: 'Hyderabad, India',
-    description: '',
-    companyHref: 'https://welcome.epam.in/',
+    title: 'User Experience Designer',
+    company: 'Corbado',
+    window: 'Nov 2023 - Present',
+    location: 'Munich, Germany',
+    description:
+      'Led the full design and some extent of development part of the developer panel focusing on the user experience,functionality and intuitiveness.',
+    companyHref: 'https://www.corbado.com/',
   },
   {
-    title: 'Associate Software Engineer',
-    company: 'Avasant',
-    window: 'Mar 2022 - Oct 2023',
-    location: 'Delhi, India',
-    description: '',
-    companyHref: 'https://avasant.com',
-  },
-  {
-    title: 'System Engineer',
-    company: 'Infosys',
+    title: 'Associate System Engineer',
+    company: 'Tata Consultancy Services',
     window: 'Nov 2020 - Feb 2022',
+    location: 'Ahmedabad, India',
     description: '',
-    location: 'Bengaluru, India',
-    companyHref: 'https://infosys.com',
-  },
-  {
-    title: 'Full Stack Developer Intern',
-    company: 'Bhigusa Health Care Private Limited',
-    window: 'May 2019 - July 2019',
-    location: 'Pune, India',
-    description: '',
+    companyHref: 'https://www.tcs.com/',
   },
 ]
 

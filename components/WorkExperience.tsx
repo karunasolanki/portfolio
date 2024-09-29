@@ -12,6 +12,7 @@ const Card = ({ title, description, company, window, location, companyHref }) =>
               {company} | {location}
             </span>
           </Link>
+          <span>{description}</span>
           <span className="prose mb-3 max-w-none text-gray-500 dark:text-gray-400">{window}</span>
         </div>
       </div>

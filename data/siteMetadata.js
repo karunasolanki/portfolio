@@ -1,22 +1,18 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Rajat Rajdeep',
-  author: 'Rajat Rajdeep',
+  title: 'Karuna Solanki',
+  author: 'Karuna Solanki',
   headerTitle: 'RR',
-  description: 'Explore the bio, blog, and projects of Rajat Rajdeep.',
+  description: 'Explore the bio, blog, and projects of Karuna Solanki.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://rajatrajdeep.in',
+  siteUrl: 'https://karunasolanki.in',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/me/profile.jpg',
   socialBanner: '/static/images/profile.jpg',
-  email: 'rajatrajdeep@outlook.com',
-  twitter: 'https://twitter.com/RajatRajdeep',
-  linkedin: 'https://www.linkedin.com/in/rajatrajdeep',
-  github: 'https://github.com/rajatrajdeep',
-  leetcode: 'https://leetcode.com/rajatrajdeep',
-  instagram: 'https://www.instagram.com/rajatrajdeep',
-  unsplash: 'https://unsplash.com/@rajatrajdeep',
+  email: 'karuna.solanki@outlook.com',
+  linkedin: 'https://www.linkedin.com/in/karunasolanki',
+  github: 'https://github.com/karunasolanki',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
